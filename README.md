@@ -1,2 +1,2 @@
 # github-tutorial
-this is where we practice basing github tools
+this is where we start practicing github tools
